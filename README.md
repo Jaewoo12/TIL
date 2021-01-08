@@ -5,3 +5,5 @@
 - ![img](README.assets/img.jpg)
 
 강의장에서
+
+안녕하세요 여기는 강의장입니다
